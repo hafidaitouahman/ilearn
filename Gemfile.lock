@@ -233,7 +233,7 @@ DEPENDENCIES
   better_errors
   coffee-rails
   compass-rails
-  figaro
+  figaro (= 1.1.1)
   gibbon (~> 1)
   google_drive
   high_voltage
